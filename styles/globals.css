@@ -770,7 +770,20 @@ margin-top: 160px;
 
 @media screen and (min-width:800px) {
   .footer-banner-image{
-    height: 120%;
+    height: 142%;
    
+  }
+}
+@media screen and (min-width:800px) {
+  .hero-banner-image{
+    scale: 1.6;
+  }
+}
+@media screen and (max-width:799px) {
+  .hero-banner-image{
+    /* scale: 1.5; */
+    position: absolute;
+    right: -35px;
+    top: 100px;
   }
 }
