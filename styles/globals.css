@@ -876,3 +876,27 @@ text-align: center;
 /* .testimonials .row{
   width: -10%;
 } */
+
+@media screen and (max-width:390px) {
+  #button{
+   position: relative;
+   top: -15%;
+  
+   /* right: 0%; */
+
+  }
+}
+@media screen and (min-width:580px) {
+  #button{
+    position: relative;
+    top: 60%;
+    right: 65%;
+  }
+}
+@media screen and (min-width:800px) {
+  #button{
+    position: relative;
+    top: 0%;
+    right: 0%;
+  }
+}
