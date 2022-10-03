@@ -57,15 +57,15 @@ I got to know about RentoMojo through a friend and looked up for AC on their web
      </section>
     
     {/* testimonials  */}
-    <section className="testimonials">
+    {/* <section className="testimonials">
         <h1>Testimonials</h1>
-        <p>  laborum? Excepturi, omnisiusto?</p>
+        <p>  laborum? Excepturi,Lorem ipsum dolor sit amet. omnisiusto?</p>
 
         <div className="row">
             <div className="testimonials-col">
                 <img src="user1.jpg" alt=""/>
                 <p>Lorem ipsum dignissimos ex, deserunt voluptatibus voluptates distinctio ratione corrupti tenetur nulla sequi, esse quo. Quod quaerat enim mollitia.</p>
-                <h3>Christiano Berkley</h3>
+                <h3>Chrisano Berkley</h3>
                 <i className="fa fa-star"></i>
                 <i className="fa fa-star"></i>
                 <i className="fa fa-star"></i>
@@ -84,37 +84,12 @@ I got to know about RentoMojo through a friend and looked up for AC on their web
                <i className="fa fa-star"></i>
                 
                 <i className="fa fa-star-half-o"></i>
-           </div>
+           
             </div>
-    </section>
-    <section className="testimonials">
-       
-        <div className="row">
-            <div className="testimonials-col">
-                <img src="user1.jpg" alt=""/>
-                <p>Lorem ipsum dignissimos ex, deserunt voluptatibus voluptates distinctio ratione corrupti tenetur nulla sequi, esse quo. Quod quaerat enim mollitia.</p>
-                <h3>Christiano Berkley</h3>
-                <i className="fa fa-star"></i>
-                <i className="fa fa-star"></i>
-                <i className="fa fa-star"></i>
-                <i className="fa fa-star"></i>
-                <i className="fa fa-star"></i>
-               
+            
+
             </div>
-            <div className="testimonials-col">
-               <img src="user2.jpg" alt=""/>
-               <p>Lorem  deserunt voluptatibus voluptates distinctio ratione corrupti tenetur nulla sequi, esse quo. Quod quaerat enim mollitia.</p>
-               <h3>James Edison</h3>
-               <i className="fa fa-star"></i>
-               <i className="fa fa-star"></i>
-               <i className="fa fa-star"></i>
-               <i className="fa fa-star"></i>
-               <i className="fa fa-star"></i>
-                
-                <i className="fa fa-star-half-o"></i>
-           </div>
-            </div>
-    </section>
+    </section> */}
     </>
      
 
