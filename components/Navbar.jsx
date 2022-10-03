@@ -15,11 +15,11 @@ const Navbar = () => {
         <Link href="/">JSM Headphones</Link>
       </p>
      
-      {/* <button type="button" className="cart-icon" onClick={() => setShowCart(true)}  style={{position:'absolute', right:'5%', top:'-5%'}}> */}
+      <button type="button" className="cart-icon" onClick={() => setShowCart(true)}  style={{position:'absolute', right:'5%', top:'-5%'}}>
       
-        {/* <span className="cart-item-qty">{totalQuantities}</span>*/}
-       {/* <span> Login</span> */}
-      {/* </button> */}
+        {/* <span className="cart-item-qty">{totalQuantities}</span> */}
+       <span id='login' > Login</span>
+      </button>
       <button type="button" className="cart-icon" onClick={() => setShowCart(true)}>
         <AiOutlineShopping />
         <span className="cart-item-qty">{totalQuantities}</span>
