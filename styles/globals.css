@@ -285,7 +285,7 @@ span.text-red {
   transition: all 1s ease-in-out;
 }
 .cart-container {
-  height: 100vh;
+  height: 110vh;
   width: 600px;
   /* width: 100vw; */
   background-color: white;
@@ -687,7 +687,7 @@ span.text-red {
     height: 350px;
   }
   .cart-container {
-    width: 350px;
+    width: 375px;
     padding: 4px;
   }
   .cart-heading {
